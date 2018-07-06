@@ -28,7 +28,7 @@ AmazingQuant是一款基于event-driven的量化回测交易开源框架，下�
       python 3.5 的版本，如果大于3.5的版本，ctp的接口暂时不能用，因为编译问题，后续可以解决
 * Linux Ubuntu <br> 
       开发环境是ubuntu，当然也可以在windows下用，但是数据库的配置和ctp等交易接口需要重新做
-* 安装AmazingQuant
+* 安装AmazingQuant<br>
       pip install AmazingQuant  直接安装
 
 # 3.策略编写
